@@ -1,3 +1,11 @@
 *
 !*/
-!*.*
+!*.cpp
+!*.h
+CMakeFiles/
+# !*.*
+# CMake*
+# cmake*
+!CMakeLists.txt
+# caida*.dat
+# *_data.txt
