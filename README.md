@@ -6,6 +6,7 @@ Repository structure
 *  `Common/`: the hash and mmap functions
 *  `Struct/`: the data structures, such as heap and hash table
 *  `Algorithm/`: include CocoSketch, USS, SpaceSaving, MVPipe and FullAncestry. Based on SpaceSaving, there are HHH12 and RHHH. Based on CocoSketch and USS, there are Residual-CocoSketch and Residual-USS.
+*  `dataset_skewness.cpp`: changing dataset skewness from 10% to 50%
 
 Requirements
 -------
