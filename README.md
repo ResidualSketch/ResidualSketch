@@ -18,7 +18,7 @@ How to run
 ```bash
 1. cmake .
 2. make
-3. ./CPU session-type
+3. ./EXEC session-type
 - session-type=1:dataset measurement of HH layer distribution
 - session-type=2:dataset measurement of numbers of full keys per HH in each layer
 - session-type=3:1D-byte Hierarchical Heavy Hitter of various algorithms
