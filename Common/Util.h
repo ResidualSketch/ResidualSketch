@@ -16,6 +16,7 @@
 #define MAX_TRAFFIC 6
 #define SLOT_NUM 8
 #define COUNT_NUM_INCAST 1
+#define BYTE_LENGTH 8
 
 enum HHKeyType{
     five_tuples = 1,
